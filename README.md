@@ -1,8 +1,5 @@
 # React Native Alarm Notification
 
-[![npm version](https://badge.fury.io/js/react-native-alarm-notification.svg)](https://badge.fury.io/js/react-native-alarm-notification)
-[![npm downloads](https://img.shields.io/npm/dt/react-native-alarm-notification.svg)](https://badge.fury.io/js/react-native-alarm-notification)
-
 ## Installing (React Native >= 0.60.0)
 
 `npm install react-native-alarm-notification --save`
