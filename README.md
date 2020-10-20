@@ -2,11 +2,7 @@
 
 ## Installing (React Native >= 0.60.0)
 
-`npm install react-native-alarm-notification --save`
-
-or
-
-`yarn add react-native-alarm-notification`
+npm i git+https://github.com/cakesoft-rajesh/RNAlarmNotification.git
 
 If you are using react-native version 0.60 or higher you don't need to link [react-native-alarm-notification](https://github.com/emekalites/react-native-alarm-notification). The package is automatically linked when building the app. All you need to do after installing package is:
 
