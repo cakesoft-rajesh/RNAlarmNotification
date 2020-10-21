@@ -56,7 +56,7 @@ public class ANModule extends ReactContextBaseJavaModule {
 
         AlarmModel alarm = new AlarmModel();
 
-        long time = System.currentTimeMillis() / 1000;
+        long time = System.currentTimeMillis();
 
         alarm.setAlarmId((int) time);
 
@@ -138,7 +138,7 @@ public class ANModule extends ReactContextBaseJavaModule {
 
         AlarmModel alarm = new AlarmModel();
 
-        long time = System.currentTimeMillis() / 1000;
+        long time = System.currentTimeMillis();
 
         alarm.setAlarmId((int) time);
 
